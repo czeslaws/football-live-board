@@ -1,0 +1,14 @@
+
+.summary-pane {
+    border: 1px solid;
+}
+
+.summary-pane h2 {
+    font-weight: normal;
+    padding-left: 10px;
+}
+
+.summary-pane pre {
+    font-size: 1.1rem;
+    padding-left: 1rem;
+}

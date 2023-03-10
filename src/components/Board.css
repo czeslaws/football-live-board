@@ -1,0 +1,25 @@
+
+.board {
+    border: 1px solid;
+}
+
+.board h2 {
+    font-weight: normal;
+    padding-left: 10px;
+}
+
+
+.board ul {
+    padding-left: 2rem;
+    list-style-type: none;
+    font-size: 1.5rem;
+    line-height: 1.8;
+}
+
+.board ul li {
+    padding-left: 3rem;
+    background-image: url(../images/soccer_ball3.svg);
+    background-position: 0% 50%;
+    background-size: 1.8rem 1.8rem;
+    background-repeat: no-repeat;
+}
